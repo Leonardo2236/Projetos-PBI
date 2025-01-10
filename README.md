@@ -1,4 +1,4 @@
-![Relatório Power BI 1](./PBI_SEC.png)
+
 
 # 📊 Projeto Power BI – Análise de Dados de Chamados internos na área acadêmica de cursos de Pós-Graduação EAD.
 

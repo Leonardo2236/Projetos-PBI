@@ -2,7 +2,7 @@
 
 # 📊 Projeto Power BI – Análise de Dados de Chamados internos na área acadêmica de cursos de Pós-Graduação EAD.
 
-Este projeto tem como objetivo criar dashboards interativos e visuais para análise de dados de vendas, utilizando o Power BI. Foi desenvolvido para acompanhar indicadores de performance, como volume de vendas, receita total e segmentação de clientes.  
+Este projeto tem como objetivo criar dashboards interativos e visuais para análise de dados de chamados, utilizando o Power BI. Foi desenvolvido para acompanhar indicadores de performance, como volume de chamados, total por área e chamados por colaborador e titulação dos chamados.  
 
 ---
 
